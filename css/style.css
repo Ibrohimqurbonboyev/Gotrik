@@ -107,3 +107,43 @@ body {
   font-size: 30px;
   padding-bottom: 10px;
 }
+
+.showcase {
+  padding-left: 88px;
+  padding-top: 200px;
+}
+
+.image-10 {
+  width: 90%;
+  height: 550px;
+}
+
+.row-img {
+  border-radius: 50%;
+  background-color: #f08826;
+}
+
+.botton-botton {
+  background: rgb(223, 211, 211);
+  border-radius: 60px;
+}
+
+.button-show {
+  padding: 80px;
+}
+
+.botton-botton {
+  padding-top: 90px;
+  padding-bottom: 100px;
+}
+
+.card-40-btn {
+  width: 15%;
+  height: 60px;
+  background-color: #f08826;
+  border-radius: 60px;
+}
+
+.botton-botton:hover {
+  border: 2px solid rgb(43, 159, 226);
+}
