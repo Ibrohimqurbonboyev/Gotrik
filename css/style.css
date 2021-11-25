@@ -19,7 +19,7 @@ body {
   margin-top: 30px;
 }
 
-.navbar a li {
+.navbar ul a {
   color: white;
 }
 
@@ -124,7 +124,7 @@ body {
 }
 
 .botton-botton {
-  background: rgb(223, 211, 211);
+  background: rgba(252, 242, 242, 0.904);
   border-radius: 60px;
 }
 
@@ -146,4 +146,72 @@ body {
 
 .botton-botton:hover {
   border: 2px solid rgb(43, 159, 226);
+}
+
+.ret {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 170px;
+}
+
+.vektor {
+  background-color: #ff7b4e;
+  position: absolute;
+  width: 20px;
+  height: 30px;
+  left: 25px;
+  top: 190px;
+  z-index: 30;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.form-control {
+  width: 800px;
+  height: 90px;
+}
+
+.btn-outline-success {
+  position: absolute;
+  width: 295px;
+  height: 70px;
+  top: 154px;
+  left: 850px;
+  border-radius: 35px;
+  background-color: #ff7b4e;
+  color: white;
+}
+
+.btn-outline-success:hover {
+  background-color: #ff7b4e;
+  color: white;
+}
+
+.form-control {
+  border-radius: 35px;
+}
+
+.form-control:hover {
+  border: 1px solid rgb(43, 159, 226);
+  border-radius: 35px;
+}
+
+.qwer {
+  margin-left: 97px !important;
+  margin-right: 218px !important;
+  color: #f08826 !important;
+}
+
+.yuy,
+.tyu {
+  color: rgb(121, 120, 120) !important;
+}
+
+.bth {
+  margin-left: 217px;
 }
